@@ -57,6 +57,7 @@ class App extends React.Component<IAppProps,IAppState> {
   }
 
   handleOnTextChange = (event: React.SyntheticEvent<HTMLInputElement>): void => {
+
     this.setState({ inputBox: event.currentTarget.value.toLowerCase() })
     
   }
