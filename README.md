@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Text Analyzer 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project accepts a string of input from the user and analyzes the frequency of each word in the string. The resulting output of word frequencies can be sorted alphabetically or in descending order by count. By default the analysis will display the words and their frequencies in the order they were entered. Some assumptions were made in that numbers should be accepted as input and that words in quotes as sometimes found in documentation should be considered seperate entities. 
+
+Aside from cloning the project and running it locally from your machine there is also a link to a hosted version of the site. 
 
 ## Available Scripts
 
