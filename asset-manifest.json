@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/word-count/static/css/main.b650f545.chunk.css",
+    "main.js": "/word-count/static/js/main.19253680.chunk.js",
+    "main.js.map": "/word-count/static/js/main.19253680.chunk.js.map",
+    "runtime-main.js": "/word-count/static/js/runtime-main.3452f49d.js",
+    "runtime-main.js.map": "/word-count/static/js/runtime-main.3452f49d.js.map",
+    "static/css/2.31461e4f.chunk.css": "/word-count/static/css/2.31461e4f.chunk.css",
+    "static/js/2.cfd6e2a0.chunk.js": "/word-count/static/js/2.cfd6e2a0.chunk.js",
+    "static/js/2.cfd6e2a0.chunk.js.map": "/word-count/static/js/2.cfd6e2a0.chunk.js.map",
+    "static/js/3.18f10122.chunk.js": "/word-count/static/js/3.18f10122.chunk.js",
+    "static/js/3.18f10122.chunk.js.map": "/word-count/static/js/3.18f10122.chunk.js.map",
+    "index.html": "/word-count/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/word-count/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.b650f545.chunk.css.map": "/word-count/static/css/main.b650f545.chunk.css.map",
+    "static/js/2.cfd6e2a0.chunk.js.LICENSE.txt": "/word-count/static/js/2.cfd6e2a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3452f49d.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.cfd6e2a0.chunk.js",
+    "static/css/main.b650f545.chunk.css",
+    "static/js/main.19253680.chunk.js"
+  ]
+}
