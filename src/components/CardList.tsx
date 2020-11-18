@@ -10,8 +10,8 @@ const CardList = ({words}: {words: Array<IWord>}) => {
                     return (
                         <Card 
                         key = {i}
-                        word = {words[i].word}
-                        count = {words[i].count}
+                        word = {word.word}
+                        count = {word.count}
                         />
                     );
                 })
